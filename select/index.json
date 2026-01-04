@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "It's gonna rain!",
+  "base_artist": "Bonnie Pink",
+  "createdAt": "2026-01-04T07:15:31.872980Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Think It's Gonna Rain Today",
+      "artist": "Dusty Springfield",
+      "has_synced": true,
+      "path": "select/01_I_Think_It's_Gonna_Rain_Today_Dusty_Springfield.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "It's Gonna Rain",
+      "artist": "Steve Reich",
+      "has_synced": false,
+      "path": "select/02_It's_Gonna_Rain_Steve_Reich.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I Think It's Gonna Rain Today",
+      "artist": "Neil Diamond",
+      "has_synced": true,
+      "path": "select/03_I_Think_It's_Gonna_Rain_Today_Neil_Diamond.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Soon It's Gonna Rain",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/04_Soon_It's_Gonna_Rain_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Think It's Gonna Rain Today",
+      "artist": "Joe Cocker",
+      "has_synced": false,
+      "path": "select/05_I_Think_It's_Gonna_Rain_Today_Joe_Cocker.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Think It's Gonna Rain Today",
+      "artist": "Nina Simone",
+      "has_synced": false,
+      "path": "select/06_I_Think_It's_Gonna_Rain_Today_Nina_Simone.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "It's Gonna Rain",
+      "artist": "Lucinda Williams",
+      "has_synced": false,
+      "path": "select/07_It's_Gonna_Rain_Lucinda_Williams.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "If It's Gonna Rain",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/08_If_It's_Gonna_Rain_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Soon It’s Gonna Rain",
+      "artist": "Barbra Streisand",
+      "has_synced": false,
+      "path": "select/09_Soon_It’s_Gonna_Rain_Barbra_Streisand.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Think It's Gonna Rain Today",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/10_I_Think_It's_Gonna_Rain_Today_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "It's Gonna Rain",
+      "artist": "Violent Femmes",
+      "has_synced": false,
+      "path": "select/11_It's_Gonna_Rain_Violent_Femmes.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Say It's Gonna Rain",
+      "artist": "Will to Power",
+      "has_synced": false,
+      "path": "select/12_Say_It's_Gonna_Rain_Will_to_Power.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "It's Gonna Rain",
+      "artist": "Sonny & Cher",
+      "has_synced": true,
+      "path": "select/13_It's_Gonna_Rain_Sonny_&_Cher.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "It's Gonna Rain All Day",
+      "artist": "Dan Andriano in the Emergency Room",
+      "has_synced": true,
+      "path": "select/14_It's_Gonna_Rain_All_Day_Dan_Andriano_in_the_Emergency_Room.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Say It's Gonna Rain",
+      "artist": "Will to Power",
+      "has_synced": true,
+      "path": "select/15_Say_It's_Gonna_Rain_Will_to_Power.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "It's gonna rain!",
+      "artist": "BONNIE PINK",
+      "has_synced": false,
+      "path": "select/pl_01_It's_gonna_rain!_BONNIE_PINK.txt"
+    }
+  ]
+}
